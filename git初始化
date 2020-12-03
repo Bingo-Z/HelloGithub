@@ -1,0 +1,8 @@
+使用git对仓库进行管理
+1.下载git并完成配置
+2.创建Github文件，在文件下创建仓库，并在仓库文件下进行git
+3.git用户初始化语句：1.git config --global user.name'你的用户名'
+              2.git config --global user.name'你的邮箱'
+4.git文件初始化：在仓库文件下 git init
+5.将需要上传的文件上传至暂存区status：git add 文件名
+6.从暂存区上传至仓库：git commit -m 'add 文件名'
